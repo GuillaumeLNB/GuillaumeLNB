@@ -37,5 +37,7 @@ I'm a NLP/backend engineer. I enjoy web developpement, automation and working wi
   
 [![GuillaumeLNB's github stats](https://github-readme-stats.vercel.app/api?username=GuillaumeLNB&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Packages I created
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeLNB&repo=lexicons_builder)](https://github.com/GuillaumeLNB/lexicons_builder) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeLNB&repo=text-scrambler)](https://github.com/GuillaumeLNB/text-scrambler) 
 
